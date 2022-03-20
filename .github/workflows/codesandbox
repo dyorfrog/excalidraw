@@ -1,0 +1,4 @@
+- name: Open in CodeSandbox
+  # You may pin to the exact commit or the version.
+  # uses: codesandbox/open-in-codesandbox@b4b1639cddf1a1832beb4473b8301d861272a57c
+  uses: codesandbox/open-in-codesandbox@v1.0.1
